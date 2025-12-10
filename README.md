@@ -1,0 +1,2 @@
+# KazPAM-dashboard
+Дашборд
