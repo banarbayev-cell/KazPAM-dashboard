@@ -179,7 +179,7 @@ npm install
 npm run build
 
 
-После сборки появляется папка dist/ — это готовый фронтенд для продакшена.
+После сборки появляется папка dist/ 
 
 3. Запуск через PM2
 pm2 serve dist 5173 --name kazpam-dashboard --spa
@@ -187,7 +187,7 @@ pm2 serve dist 5173 --name kazpam-dashboard --spa
 
 Флаги:
 
-5173 — порт (можно изменить)
+5173 — порт 
 
 --spa — корректная работа роутинга React
 
